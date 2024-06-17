@@ -1,3 +1,26 @@
+## rviz_visual_tools (jazzy) - 4.1.4-5
+
+The packages in the `rviz_visual_tools` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy rviz_visual_tools --override-release-repository-push-url git@github.com:revyos-ros/rviz_visual_tools-release.git` on `Mon, 17 Jun 2024 09:01:16 -0000`
+
+The `rviz_visual_tools` package was released.
+
+Version of package(s) in repository `rviz_visual_tools`:
+
+- upstream repository: https://github.com/PickNikRobotics/rviz_visual_tools.git
+- release repository: https://github.com/revyos-ros/rviz_visual_tools-release.git
+- rosdistro version: `4.1.4-4`
+- old version: `4.1.4-4`
+- new version: `4.1.4-5`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rviz_visual_tools (humble) - 4.1.4-1
 
 The packages in the `rviz_visual_tools` repository were released into the `humble` distro by running `/home/tezer/.local/bin/bloom-release --rosdistro humble --track humble rviz_visual_tools` on `Thu, 05 Jan 2023 14:40:45 -0000`
